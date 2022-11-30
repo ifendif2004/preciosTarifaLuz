@@ -6,7 +6,7 @@
     "scope": "https://ifendif2004.github.io/preciosTarifaLuz/",
     "start_url": "https://ifendif2004.github.io/preciosTarifaLuz/",
     "name": "Precios kwh de luz",
-    "short_name": "Gasto \u20ac/kwh",
+    "short_name": "Precio \u20ac/kwh",
     "description": "Precios kwh de luz",
     "icons": [
         {
